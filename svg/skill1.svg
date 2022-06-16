@@ -1,3 +1,7 @@
 
-
+<style>
+svg:hover {
+  width: 300px;
+}
+</style>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 471 103"><defs><style>.cls-1{fill:red;}.cls-2{font-size:66.33px;font-family:MyriadPro-Regular, Myriad Pro;}</style></defs><g id="Capa_2" data-name="Capa 2"><g id="Capa_1-2" data-name="Capa 1"><rect class="cls-1" width="471" height="103"/><text class="cls-2" transform="translate(230.04 70.44)">HTML</text><rect width="156" height="103"/></g></g></svg>
