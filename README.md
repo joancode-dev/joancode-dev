@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Joan 👨‍💻</h1>
+<h1>Hola 👋 soy Joan 👨‍💻</h1>
 
 
   <img src="animate-svg.svg" style="width: 100%;" />
