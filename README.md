@@ -44,5 +44,5 @@
 
 
  <h1>Contactos</h1>
-<strong>Email:</strong> <a href="contact@joanramirez.dev" target="_blank" rel="noopener noreferrer">contact@joanramirez.dev</a>  <br />
+<strong>Email:</strong> <a href="mailto:contact@joanramirez.dev" target="_blank" rel="noopener noreferrer">contact@joanramirez.dev</a>  <br />
 <strong>Teléfono:</strong> <a href="tel:+1829-769-1694" target="_blank" rel="noopener noreferrer">+1829-769-1694</a>
