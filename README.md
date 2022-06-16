@@ -1,6 +1,9 @@
 <h1>Hola 👋</h1>
 
 
+<img align="left" alt="medium" src="svg.svg" />
+
+
 <h3>Mis Habilidades</h3>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
