@@ -74,11 +74,12 @@
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
+				display:hidden;
 				}
 			</style>
 			<div class="container">
-				<h1>Programador <br/> Full Stack</h1>
-				<p>Click to see the source</p>
+				<h1>Desarrollador <br/> Full-Stack</h1>
+				<p></p>
 			</div>
 		</div>
 	</foreignObject>
