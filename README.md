@@ -1,9 +1,11 @@
 <h1>Hola 👋</h1>
 
 
-<img align="left" alt="medium" src="svg.svg" />
+  <img src="svg.svg" style="width: 100%;" />
 
 
+<div>
+  
 <h3>Mis Habilidades</h3>
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,3 +39,4 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </div>
