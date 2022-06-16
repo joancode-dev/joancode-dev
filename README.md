@@ -1,7 +1,7 @@
 <h1>Hola 👋</h1>
 
 
-  <img src="svg.svg" style="width: 100%;" />
+  <img src="svg1.svg" style="width: 100%;" />
 
 
 <div>
