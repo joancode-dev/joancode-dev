@@ -1,7 +1,7 @@
 <h1>Hola 👋 soy Joan 👨‍💻</h1>
 
 
-  <img src="animate-svg.svg" style="width: 100%;" />
+  <img src="animation.svg" style="width: 100%;" />
 
 
 <h2>Educación</h2>
