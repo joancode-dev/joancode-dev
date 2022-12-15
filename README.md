@@ -9,7 +9,7 @@
 
 <li>
 📖 Desarrollo de software<br/>
-📆 2021 - Actualidad<br/>
+📆 2022 - Actualidad<br/>
 📍 Instituto Tecnológico de Las Américas (ITLA)
 
 </li>
