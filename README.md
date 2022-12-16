@@ -54,5 +54,5 @@
 
 
  <h2>Contactos</h2>
-<strong>Email:</strong> <a href="mailto:contact@joanramirez.dev" target="_blank" rel="noopener noreferrer">contact@joanramirez.dev</a>  <br />
+<strong>Email:</strong> <a href="mailto:contact@joanramirez.dev" target="_blank" rel="noopener noreferrer">joanramirez.dev@hotmail.com</a>  <br />
 <strong>Teléfono / WhatsApp:</strong> <a href="https://api.whatsapp.com/send?phone=+18297691694&text=Hola%20Joan%20Ramirez,%20Necesito%20de%20tu%20servicios." target="_blank" rel="noopener noreferrer">+1829-769-1694</a>
