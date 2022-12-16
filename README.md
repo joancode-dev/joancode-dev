@@ -8,7 +8,7 @@
 <ul>
 
 <li>
-📖 Desarrollo de software<br/>
+📖 Técnico de software<br/>
 📆 2022 - Actualidad<br/>
 📍 Instituto Tecnológico de Las Américas (ITLA)
 
